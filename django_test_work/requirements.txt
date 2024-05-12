@@ -1,0 +1,7 @@
+pymongo==3.12.3
+django
+djongo
+pytz
+schedule
+requests
+django-background-tasks
